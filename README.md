@@ -1,4 +1,4 @@
-# MigrateSpritePacker
+# MigrateSpritePacker.cs
 
 A tool to migrate Sprite Packer Atlases to Sprite Atlas for Unity
 
