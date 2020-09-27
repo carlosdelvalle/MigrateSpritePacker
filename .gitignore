@@ -1,0 +1,11 @@
+Library
+Temp
+Obj
+ProjectSettings
+Logs
+Packages
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+.idea/*
